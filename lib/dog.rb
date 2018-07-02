@@ -3,7 +3,7 @@ class Dog
  def initialize(name)
    @name = name
  end
- 
+ self.clear_all
 
 
 end
